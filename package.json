@@ -37,7 +37,7 @@
     "@meshsdk/common": "git+https://github.com/rawvie-iagon/mesh-common.git",
     "@meshsdk/core-csl": "git+https://github.com/rawvie-iagon/mesh-core-csl.git",
     "@meshsdk/core-cst": "git+https://github.com/rawvie-iagon/mesh-core-cst.git",
-    "@meshsdk/transaction": "git+https://github.com/rawvie-iagon/mesh-transction.git",
+    "@meshsdk/transaction": "git+https://github.com/rawvie-iagon/mesh-transaction.git",
     "@nufi/dapp-client-cardano": "^0.3.1",
     "@nufi/dapp-client-core": "^0.3.1"
   },
